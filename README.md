@@ -30,5 +30,5 @@ Back end is developed using Php and mysql database
 Machine learning model is created using python and pandas library.
 
 ## Hosting:-
-PHP & Database is hosted in localhost
-Machin learning model is hosted in IBM cloud (watson studio). 
+ - PHP & Database is hosted in localhost
+ - Machin learning model is hosted in IBM cloud (watson studio). 
